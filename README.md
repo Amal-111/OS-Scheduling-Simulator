@@ -1,1 +1,29 @@
-# Os-project
+# Operating System Simulator
+
+A Java-based simulation project developed as part of an Operating Systems course.
+
+The project simulates how an operating system manages processes, memory, and CPU scheduling using multiple scheduling algorithms.
+
+## Key Features
+
+- Reads process information including Process ID, Arrival Time, Burst Time, Memory, and Priority
+- Simulates Shortest Job First (SJF) scheduling
+- Simulates Round Robin (RR) scheduling with a time quantum of 2
+- Simulates Priority Scheduling
+- Detects starvation and applies aging in Priority Scheduling
+- Manages process queues and memory
+- Uses multithreading for reading process data
+- Displays scheduling results using Gantt charts and result tables
+
+## CPU Scheduling Algorithms
+
+- Shortest Job First (SJF)
+- Round Robin (RR) — Time Quantum = 2
+- Priority Scheduling with Starvation Detection and Aging
+
+## Team Members
+
+- Amal Albogami
+- Fajr Albagmi
+- Ghena Binjadid
+- Albatool Aljaber

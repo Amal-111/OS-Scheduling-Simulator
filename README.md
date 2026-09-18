@@ -6,7 +6,7 @@ A Java-based simulation project that demonstrates process management, memory man
 
 - Reads process information including Process ID, Arrival Time, Burst Time, Memory, and Priority
 - Simulates Shortest Job First (SJF) scheduling
-- Simulates Round Robin (RR) scheduling with a time quantum of 2
+- Simulates Round Robin (RR) scheduling
 - Simulates Priority Scheduling
 - Detects starvation and applies aging in Priority Scheduling
 - Manages process queues and memory
@@ -16,7 +16,7 @@ A Java-based simulation project that demonstrates process management, memory man
 ## CPU Scheduling Algorithms
 
 - Shortest Job First (SJF)
-- Round Robin (RR) — Time Quantum = 2
+- Round Robin (RR)
 - Priority Scheduling with Starvation Detection and Aging
 
 ## Technologies

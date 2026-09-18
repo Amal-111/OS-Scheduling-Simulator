@@ -1,8 +1,6 @@
 # Operating System Simulator
 
-A Java-based simulation project developed as part of an Operating Systems course.
-
-The project simulates how an operating system manages processes, memory, and CPU scheduling using multiple scheduling algorithms.
+A Java-based simulation project that demonstrates process management, memory management, and CPU scheduling using multiple scheduling algorithms.
 
 ## Key Features
 
@@ -20,6 +18,15 @@ The project simulates how an operating system manages processes, memory, and CPU
 - Shortest Job First (SJF)
 - Round Robin (RR) — Time Quantum = 2
 - Priority Scheduling with Starvation Detection and Aging
+
+## Technologies
+
+- Java
+
+## Tools
+
+- NetBeans
+- GitHub
 
 ## Team Members
 
